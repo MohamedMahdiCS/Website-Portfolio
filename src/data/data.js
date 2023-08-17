@@ -1,25 +1,26 @@
 
 
 export const data = [
+
   {
     id: 1,
-    img: 'https://i.postimg.cc/VkRWdHWx/57214s81.jpg',
-    title: "Multimedia Web",
-    desc: "",
+    img: 'https://i.postimg.cc/mkQ2ndGF/car-service-icon-sign-symbol.jpg',
+    title: "Car Rental System",
     link: "",
     git: "",
   },
+  
   {
     id: 2,
-    img: 'https://i.postimg.cc/Bv75CLyN/4167022.jpg',
-    title: "Tarvel Agency",
+    img: 'https://i.postimg.cc/cCjMDL0J/secure-mobile-payment-with-phone-cards-pos.jpg',
+    title: "Online Banking System",
     link: "",
     git: "",
   },
   {
     id: 3,
-    img: 'https://i.postimg.cc/wBjcJcW7/5890625.jpg',
-    title: "Music Player",
+    img: 'https://i.postimg.cc/Kzm2zZX4/7434631-3658020.jpg',
+    title: "Personality Test",
     desc: "",
     link: "",
     git: "",
