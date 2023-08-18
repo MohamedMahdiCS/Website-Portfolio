@@ -65,7 +65,7 @@ const Skills = ({ darkMode }) => {
                 logo={<SiPython />}
                 black={"white"}
                 white={"black"}
-                skill={"Node Js"}
+                skill={"Python"}
               />
               <SkillBox
                 logo={<SiMongodb />}
