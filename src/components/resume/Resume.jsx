@@ -18,8 +18,8 @@ const Resume = () => {
     {
       title: "Software Engineer",
       place: "International Academy of Achievement",
-      date: "February 2022 - January 2023 | 2 Years 7 Months",
-      description: "led the creation of an advanced online course platform, emphasizing psychology-based selling techniques. Collaborating with psychology professionals, we tailored the UX to boost engagement, resulting in a 25% uptick in user activity. By seamlessly integrating social media APIs, the platform experienced a 15% organic growth in enrollments. Harnessing data analytics tools, we monitored user patterns, leading to a 20% rise in course subscriptions. My dedication to a mobile-responsive design escalated user participation across devices by a significant 30%. Furthermore, periodic feature enhancements, driven by user feedback and in-depth psychology research, solidified our platform's reputation, increasing user retention by 18%.",
+      date: "January 2021 - July 2023 | 2 Years 7 Months",
+      description: "Led the creation of an advanced online course platform, emphasizing psychology-based selling techniques. Collaborating with psychology professionals, we tailored the UX to boost engagement, resulting in a 25% uptick in user activity. By seamlessly integrating social media APIs, the platform experienced a 15% organic growth in enrollments. Harnessing data analytics tools, we monitored user patterns, leading to a 20% rise in course subscriptions. My dedication to a mobile-responsive design escalated user participation across devices by a significant 30%. Furthermore, periodic feature enhancements, driven by user feedback and in-depth psychology research, solidified our platform's reputation, increasing user retention by 18%.",
     },
   ];
 
